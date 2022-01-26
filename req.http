@@ -1,0 +1,10 @@
+POST http://localhost:8080/account
+Content-Type: application/json
+
+{
+	"firstName": "cam",
+	"lastName": "young",
+	"username": "cameronape",
+	"email": "mmoapes@gmail.com",
+	"password": "Testing123@@@@"
+}
